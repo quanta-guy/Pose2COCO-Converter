@@ -1,6 +1,7 @@
 # Pose2COCO Converter
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+
 Reproduction Guide for Converting OpenPose Annotations to COCO Format
 
 ---
